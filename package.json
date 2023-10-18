@@ -1,0 +1,19 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "![GitHub](https://img.shields.io/github/license/tu-usuario/tu-repositorio) ![GitHub last commit](https://img.shields.io/github/last-commit/tu-usuario/tu-repositorio) ![GitHub issues](https://img.shields.io/github/issues-raw/tu-usuario/tu-repositorio)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mongoose": "^7.6.3"
+  }
+}

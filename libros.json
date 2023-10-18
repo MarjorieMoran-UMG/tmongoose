@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "652ca1f44c6d9138891410a6"
+  },
+  "titulo": "Los Pilares de la Tierra",
+  "autor": "Ken Follett",
+  "anio_publicacion": 1989,
+  "genero": "Novela histórica",
+  "calificacion": 4.7,
+  "sinopsis": "Una épica historia de construcción de catedrales en la Inglaterra del siglo XII.",
+  "personajes_principales": [
+    "Tom Builder",
+    "Aliena",
+    "Philip"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ca1f44c6d9138891410a7"
+  },
+  "titulo": "El Nombre del Viento",
+  "autor": "Patrick Rothfuss",
+  "anio_publicacion": 2007,
+  "genero": "Fantasía",
+  "calificacion": 4.8,
+  "sinopsis": "La vida del legendario mago y músico Kvothe, desde su infancia hasta su edad adulta.",
+  "personajes_principales": [
+    "Kvothe",
+    "Denna",
+    "Bast"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ca1f44c6d9138891410a8"
+  },
+  "titulo": "Siddhartha",
+  "autor": "Hermann Hesse",
+  "anio_publicacion": 1922,
+  "genero": "Novela filosófica",
+  "calificacion": 4.6,
+  "sinopsis": "La búsqueda espiritual de Siddhartha a lo largo de su vida en la India antigua.",
+  "personajes_principales": [
+    "Siddhartha",
+    "Kamala",
+    "Vasudeva"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ca1f44c6d9138891410a9"
+  },
+  "titulo": "Los Juegos del Hambre",
+  "autor": "Suzanne Collins",
+  "anio_publicacion": 2008,
+  "genero": "Ciencia ficción, Distopía",
+  "calificacion": 4.5,
+  "sinopsis": "Katniss Everdeen lucha por sobrevivir en los Juegos del Hambre en un mundo postapocalíptico.",
+  "personajes_principales": [
+    "Katniss Everdeen",
+    "Peeta Mellark",
+    "Gale Hawthorne"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652ca1f44c6d9138891410aa"
+  },
+  "titulo": "Crónica de una Muerte Anunciada",
+  "autor": "Gabriel García Márquez",
+  "anio_publicacion": 1981,
+  "genero": "Realismo mágico",
+  "calificacion": 4.9,
+  "sinopsis": "La narración de un asesinato en un pequeño pueblo latinoamericano y la inevitabilidad de la muerte.",
+  "personajes_principales": [
+    "Santiago Nasar",
+    "Ángela Vicario",
+    "Bayardo San Román"
+  ]
+},
+{
+  "_id": {
+    "$oid": "652cc8255ed221db65b2c56b"
+  },
+  "titulo": "Mejores amigas por siempre",
+  "autor": "Marjorie",
+  "genero": "Novela",
+  "calificacion": 4,
+  "sinopsis": "Una épica historia",
+  "personajes_principales": [
+    "Marjorie Moran",
+    "Ashley Gonzales",
+    "Iris Damian"
+  ],
+  "__v": 0
+}]
